@@ -1,0 +1,571 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Barry Berkins",
+      "email": "bberkins@dontask.org",
+      "address": "1022 Millings Way, Los Angeles, CA, 08072",
+      "phoneNumber": "635-546-2201"
+    },
+    {
+      "id": 2,
+      "fullName": "Donald Duck",
+      "email": "dduckquack@hotmail.com",
+      "address": "2788 Ribbet Biscuit Ave, Epcot, FL, 54678 ",
+      "phoneNumber": "555-676-9890"
+    },
+    {
+      "id": 3,
+      "fullName": "Florence Blumenthal",
+      "email": "fblume213@gmail.com",
+      "address": "1309 Rose Bush Way, Griffith, IN 46300",
+      "phoneNumber": "343-5607-2131 ext.2"
+    },
+    {
+      "id": 4,
+      "fullName": "Julius Brutus",
+      "email": "nostabytoday@romanempire.courier",
+      "address": "321 Rome Blvd, Trenton, NJ, 54354",
+      "phoneNumber": "231-453-8765"
+    },
+    {
+      "id": 5,
+      "fullName": "Brenda von Elrod",
+      "email": "BvD@aol.com",
+      "address": "Catapult String Rd, Kalamazoo, MI, 23456",
+      "phoneNumber": "453-0985-5647"
+    },
+    {
+      "id": 6,
+      "fullName": "Craig Offerman",
+      "email": "craigiskeg@vanderbilt.edu",
+      "address": "321 Natchez Trace, Nashville, TN 37212",
+      "phoneNumber": "615-765-9870"
+    },
+    {
+      "id": 7,
+      "fullName": "Richard Little",
+      "email": "richardlittle212@businessman.com",
+      "address": "6571 Oyster Way, Charleston, SC 21345",
+      "phoneNumber": "800-786-5412"
+    },
+    {
+      "id": 8,
+      "fullName": "Calypso McNeil",
+      "email": "calypsoisin@maverick.gov",
+      "address": "131 Billings Court, Albuquerque, NM 12389",
+      "phoneNumber": "542-788-2342"
+    },
+    {
+      "id": 9,
+      "fullName": "Harmon Little",
+      "email": "hlittle123@farmersonly.com",
+      "address": "5631 Woodlawn Ave, Nashville, TN 37212",
+      "phoneNumber": "615-341-9854"
+    },
+    {
+      "id": 10,
+      "fullName": "Last User",
+      "email": "lastuser@google.com",
+      "address": "1001 Google Drive Way, Palo Alto, CA 45609",
+      "phoneNumber": "867-301-6572"
+    }
+  ],
+  "dayOfWeeks": [
+    {
+      "id": 1,
+      "name": "Monday"
+    },
+    {
+      "id": 2,
+      "name": "Tuesday"
+    },
+    {
+      "id": 3,
+      "name": "Wednesday"
+    },
+    {
+      "id": 4,
+      "name": "Thursday"
+    },
+    {
+      "id": 5,
+      "name": "Friday"
+    },
+    {
+      "id": 6,
+      "name": "Saturday"
+    },
+    {
+      "id": 7,
+      "name": "Sunday"
+    }
+  ],
+  "timeOfDayStarts": [
+    {
+      "id": 1,
+      "timeOfDay": "8:00 AM"
+    },
+    {
+      "id": 2,
+      "timeOfDay": "8:15 AM"
+    },
+    {
+      "id": 3,
+      "timeOfDay": "8:30 AM"
+    },
+    {
+      "id": 4,
+      "timeOfDay": "8:45 AM"
+    },
+    {
+      "id": 5,
+      "timeOfDay": "9:00 AM"
+    },
+    {
+      "id": 6,
+      "timeOfDay": "9:15 AM"
+    },
+    {
+      "id": 7,
+      "timeOfDay": "9:30 AM"
+    },
+    {
+      "id": 8,
+      "timeOfDay": "9:45 AM"
+    },
+    {
+      "id": 9,
+      "timeOfDay": "10:00 AM"
+    },
+    {
+      "id": 10,
+      "timeOfDay": "10:15 AM"
+    },
+    {
+      "id": 11,
+      "timeOfDay": "10:30 AM"
+    },
+    {
+      "id": 12,
+      "timeOfDay": "10:45 AM"
+    },
+    {
+      "id": 13,
+      "timeOfDay": "11:00 AM"
+    },
+    {
+      "id": 14,
+      "timeOfDay": "11:15 AM"
+    },
+    {
+      "id": 15,
+      "timeOfDay": "11:30 AM"
+    },
+    {
+      "id": 16,
+      "timeOfDay": "11:45 AM"
+    },
+    {
+      "id": 17,
+      "timeOfDay": "12:00 PM"
+    },
+    {
+      "id": 18,
+      "timeOfDay": "12:15 PM"
+    },
+    {
+      "id": 19,
+      "timeOfDay": "12:30 PM"
+    },
+    {
+      "id": 20,
+      "timeOfDay": "12:45 PM"
+    },
+    {
+      "id": 21,
+      "timeOfDay": "1:00 PM"
+    },
+    {
+      "id": 22,
+      "timeOfDay": "1:15 PM"
+    },
+    {
+      "id": 23,
+      "timeOfDay": "1:30 PM"
+    },
+    {
+      "id": 24,
+      "timeOfDay": "1:45 PM"
+    },
+    {
+      "id": 25,
+      "timeOfDay": "2:00 PM"
+    },
+    {
+      "id": 26,
+      "timeOfDay": "2:15 PM"
+    },
+    {
+      "id": 27,
+      "timeOfDay": "2:30 PM"
+    },
+    {
+      "id": 28,
+      "timeOfDay": "2:45 PM"
+    },
+    {
+      "id": 29,
+      "timeOfDay": "3:00 PM"
+    },
+    {
+      "id": 30,
+      "timeOfDay": "3:15 PM"
+    },
+    {
+      "id": 31,
+      "timeOfDay": "3:30 PM"
+    },
+    {
+      "id": 32,
+      "timeOfDay": "3:15 PM"
+    },
+    {
+      "id": 33,
+      "timeOfDay": "3:30 PM"
+    },
+    {
+      "id": 34,
+      "timeOfDay": "3:45 PM"
+    },
+    {
+      "id": 35,
+      "timeOfDay": "4:00 PM"
+    },
+    {
+      "id": 36,
+      "timeOfDay": "4:15 PM"
+    },
+    {
+      "id": 37,
+      "timeOfDay": "4:30 PM"
+    },
+    {
+      "id": 38,
+      "timeOfDay": "4:45 PM"
+    },
+    {
+      "id": 39,
+      "timeOfDay": "5:00 PM"
+    }
+  ],
+  "timeOfDayEnds": [
+    {
+      "id": 1,
+      "timeOfDay": "8:15 AM"
+    },
+    {
+      "id": 2,
+      "timeOfDay": "8:30 AM"
+    },
+    {
+      "id": 3,
+      "timeOfDay": "8:45 AM"
+    },
+    {
+      "id": 4,
+      "timeOfDay": "9:00 AM"
+    },
+    {
+      "id": 5,
+      "timeOfDay": "9:15 AM"
+    },
+    {
+      "id": 6,
+      "timeOfDay": "9:30 AM"
+    },
+    {
+      "id": 7,
+      "timeOfDay": "9:45 AM"
+    },
+    {
+      "id": 8,
+      "timeOfDay": "10:00 AM"
+    },
+    {
+      "id": 9,
+      "timeOfDay": "10:15 AM"
+    },
+    {
+      "id": 10,
+      "timeOfDay": "10:30 AM"
+    },
+    {
+      "id": 11,
+      "timeOfDay": "10:45 AM"
+    },
+    {
+      "id": 12,
+      "timeOfDay": "11:00 AM"
+    },
+    {
+      "id": 13,
+      "timeOfDay": "11:15 AM"
+    },
+    {
+      "id": 14,
+      "timeOfDay": "11:30 AM"
+    },
+    {
+      "id": 15,
+      "timeOfDay": "11:45 AM"
+    },
+    {
+      "id": 16,
+      "timeOfDay": "12:00 PM"
+    },
+    {
+      "id": 17,
+      "timeOfDay": "12:15 PM"
+    },
+    {
+      "id": 18,
+      "timeOfDay": "12:30 PM"
+    },
+    {
+      "id": 19,
+      "timeOfDay": "12:45 PM"
+    },
+    {
+      "id": 20,
+      "timeOfDay": "1:00 PM"
+    },
+    {
+      "id": 21,
+      "timeOfDay": "1:15 PM"
+    },
+    {
+      "id": 22,
+      "timeOfDay": "1:30 PM"
+    },
+    {
+      "id": 23,
+      "timeOfDay": "1:45 PM"
+    },
+    {
+      "id": 24,
+      "timeOfDay": "2:00 PM"
+    },
+    {
+      "id": 25,
+      "timeOfDay": "2:15 PM"
+    },
+    {
+      "id": 26,
+      "timeOfDay": "2:30 PM"
+    },
+    {
+      "id": 27,
+      "timeOfDay": "2:45 PM"
+    },
+    {
+      "id": 28,
+      "timeOfDay": "3:00 PM"
+    },
+    {
+      "id": 29,
+      "timeOfDay": "3:15 PM"
+    },
+    {
+      "id": 30,
+      "timeOfDay": "3:30 PM"
+    },
+    {
+      "id": 31,
+      "timeOfDay": "3:15 PM"
+    },
+    {
+      "id": 32,
+      "timeOfDay": "3:30 PM"
+    },
+    {
+      "id": 33,
+      "timeOfDay": "3:45 PM"
+    },
+    {
+      "id": 34,
+      "timeOfDay": "4:00 PM"
+    },
+    {
+      "id": 35,
+      "timeOfDay": "4:15 PM"
+    },
+    {
+      "id": 36,
+      "timeOfDay": "4:30 PM"
+    },
+    {
+      "id": 37,
+      "timeOfDay": "4:45 PM"
+    },
+    {
+      "id": 38,
+      "timeOfDay": "5:00 PM"
+    }
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "userId": 2,
+      "dayOfWeekId": 3,
+      "timeOfDayStartId": 4,
+      "timeOfDayEndId": 10,
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "dayOfWeekId": 5,
+      "timeOfDayStartId": 12,
+      "timeOfDayEndId": 20,
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "userId": 4,
+      "dayOfWeekId": 4,
+      "timeOfDayStartId": 1,
+      "timeOfDayEndId": 38,
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "userId": 5,
+      "dayOfWeekId": 6,
+      "timeOfDayStartId": 25,
+      "timeOfDayEndId": 35,
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "dayOfWeekId": "5",
+      "timeOfDayStartId": "31",
+      "timeOfDayEndId": 38,
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "userId": 7,
+      "dayOfWeekId": 1,
+      "timeOfDayStartId": 16,
+      "timeOfDayEndId": 25,
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "id": 7,
+      "userId": 8,
+      "dayOfWeekId": 2,
+      "timeOfDayStartId": 18,
+      "timeOfDayEndId": 25,
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "userId": 6,
+      "dayOfWeekId": 7,
+      "timeOfDayStartId": 25,
+      "timeOfDayEndId": 35,
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "dayOfWeekId": 6,
+      "timeOfDayStartId": 4,
+      "timeOfDayEndId": 16,
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "id": 10,
+      "userId": 9,
+      "dayOfWeekId": 5,
+      "timeOfDayStartId": 12,
+      "timeOfDayEndId": 21,
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "id": 11,
+      "userId": 1,
+      "dayOfWeekId": 3,
+      "timeOfDayStartId": 5,
+      "timeOfDayEndId": 8,
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "id": 12,
+      "userId": 1,
+      "dayOfWeekId": 3,
+      "timeOfDayStartId": 1,
+      "timeOfDayEndId": 12,
+      "completed": true,
+      "notes": ""
+    },
+    {
+      "id": 13,
+      "userId": 1,
+      "dayOfWeekId": 3,
+      "timeOfDayStartId": 15,
+      "timeOfDayEndId": 20,
+      "completed": true,
+      "notes": ""
+    },
+    {
+      "id": 14,
+      "userId": 1,
+      "dayOfWeekId": 1,
+      "timeOfDayStartId": 6,
+      "timeOfDayEndId": 13,
+      "completed": true,
+      "notes": "dog is small but has big bite"
+    },
+    {
+      "id": 15,
+      "userId": 1,
+      "dayOfWeekId": 1,
+      "timeOfDayStartId": 2,
+      "timeOfDayEndId": 4,
+      "completed": true,
+      "notes": ""
+    },
+    {
+      "id": 16,
+      "userId": 1,
+      "dayOfWeekId": 1,
+      "timeOfDayStartId": 4,
+      "timeOfDayEndId": 10,
+      "completed": true,
+      "notes": ""
+    },
+    {
+      "userId": 1,
+      "dayOfWeekId": 4,
+      "timeOfDayStartId": 5,
+      "timeOfDayEndId": 6,
+      "completed": false,
+      "notes": "leaving bin by the curb",
+      "id": 17
+    }
+  ]
+}
