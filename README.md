@@ -1,5 +1,4 @@
 # Pass the Glass API
-(Client-side details and installation instructions can be found here.)
 
 ## Running the API:
 1. Clone the repo to your local machine:
